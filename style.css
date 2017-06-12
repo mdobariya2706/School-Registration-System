@@ -1,0 +1,9 @@
+h2{
+	color: blue;
+}
+.homeButton {
+    font-size: 16px;
+    color:white; 
+    background-color:blue; 
+    padding: 5px;
+}
